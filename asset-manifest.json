@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-master/static/css/main.f44457e3.css",
+    "main.js": "/Portfolio-master/static/js/main.53066b52.js",
+    "static/js/415.fb51c11d.chunk.js": "/Portfolio-master/static/js/415.fb51c11d.chunk.js",
+    "static/js/787.35dd0f9c.chunk.js": "/Portfolio-master/static/js/787.35dd0f9c.chunk.js",
+    "static/media/leaf.png": "/Portfolio-master/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/chatify.png": "/Portfolio-master/static/media/chatify.cfb9dec7305f72be2c97.png",
+    "static/media/emotion.png": "/Portfolio-master/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Portfolio-master/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Portfolio-master/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/about.png": "/Portfolio-master/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Software-developer.jpg": "/Portfolio-master/static/media/Software-developer.c749a70c18c7aad9e979.jpg",
+    "static/media/Vipul's Resume  Pro.pdf": "/Portfolio-master/static/media/Vipul's Resume  Pro.6a22e0d2dad7e72a96e8.pdf",
+    "static/media/leetbest.png": "/Portfolio-master/static/media/leetbest.2eff9c8420d3876f912c.png",
+    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-master/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-master/index.html",
+    "main.f44457e3.css.map": "/Portfolio-master/static/css/main.f44457e3.css.map",
+    "main.53066b52.js.map": "/Portfolio-master/static/js/main.53066b52.js.map",
+    "415.fb51c11d.chunk.js.map": "/Portfolio-master/static/js/415.fb51c11d.chunk.js.map",
+    "787.35dd0f9c.chunk.js.map": "/Portfolio-master/static/js/787.35dd0f9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44457e3.css",
+    "static/js/main.53066b52.js"
+  ]
+}
