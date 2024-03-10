@@ -46,7 +46,7 @@ function About() {
         <Toolstack />
 
       </Container>
-      <img src={leetcode} alt="Leetcode Calender"/>
+      <img src={leetcode} alt="Leetcode Calender" className="img-fluid"/>
     </Container>
   );
 }
